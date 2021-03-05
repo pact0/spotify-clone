@@ -1,0 +1,17 @@
+.banner {
+    padding:30px;
+    flex: 10.8;
+    height:100vh;
+    color:white;
+    background: linear-gradient(rgba(255,255,255));
+}
+
+.banner_info {
+    display: flex;
+    align-items:flex-end;
+    padding: 10px;
+}
+.playlist_picture {
+    object-fit: contain;
+
+}

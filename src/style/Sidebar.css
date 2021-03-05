@@ -1,0 +1,21 @@
+.sidebar {
+    height: 100%;
+    flex: 0.2;
+    background-color: #040404;
+    color: white;
+    min-width: 230px;
+
+}
+
+.spotify_logo {
+    height: 70px;
+    padding:10px;
+    object-fit: contain;
+
+}
+
+.sidebar_title {
+    font-size: 12px;
+    padding: 5px;
+    margin-left: 10px;
+}
